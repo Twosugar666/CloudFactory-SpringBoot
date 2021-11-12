@@ -1,0 +1,2 @@
+# CloudFactory-SpringBoot
+东北大学软件工程大二暑期实训项目——基于SpringBoot与MybatisPlus的云工厂管理系统
